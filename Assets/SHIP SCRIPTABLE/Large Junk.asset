@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604c2c82537f681498b8a8556b37158c, type: 3}
+  m_Name: Large Junk
+  m_EditorClassIdentifier: 
+  classType: 2
+  itemSlots: 4
+  modelPrefab: {fileID: 919132149155446097, guid: 18df1238feefc2b49abefab2b0ffa489,
+    type: 3}
+  description: largest junk class that has 4 slot but slower then others
+  speed: 20
+  buildTime: 400
+  purchaseCost: 3000
+  GivenName: LARGE JUNK
+  shipImage: {fileID: 21300000, guid: b57f18fb8c6b5a5449d174631955d838, type: 3}
+  shipInventory:
+    itemSlots: []
+    maxItemSlots: 4
+  routes:
+  - routeName: 
+    routeDestinationNames: []
+    sellingItems: []
+    buyingItems: []

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604c2c82537f681498b8a8556b37158c, type: 3}
+  m_Name: Small Junk
+  m_EditorClassIdentifier: 
+  classType: 2
+  itemSlots: 3
+  modelPrefab: {fileID: 919132149155446097, guid: 3bb744ef2853050408e78044bc9d3c87,
+    type: 3}
+  description: 'Junk is moderate size ship allowing players to carry 3 items at once  '
+  speed: 30
+  buildTime: 200
+  purchaseCost: 2000
+  GivenName: JUNK
+  shipImage: {fileID: 21300000, guid: 58a879ec3b51c294e80bd9ebdb75ecd3, type: 3}
+  shipInventory:
+    itemSlots: []
+    maxItemSlots: 3

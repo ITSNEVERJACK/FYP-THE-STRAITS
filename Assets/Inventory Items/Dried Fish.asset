@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6785e4c0254102b4fa2fef7ae72eaa8e, type: 3}
+  m_Name: Dried Fish
+  m_EditorClassIdentifier: 
+  itemName: 'Dried Fish '
+  description: A vital protein source for long journeys.
+  icon: {fileID: 21300000, guid: fd82ec6703b6e674cb110f1da076b8c3, type: 3}
+  basePrice: 70
+  initialQuantity: 100
+  currentPrice: 0
+  timeSinceLastPurchase: 0
